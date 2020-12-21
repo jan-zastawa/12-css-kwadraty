@@ -1,13 +1,14 @@
 body {
-    background-color: gray;
+    background-color: #808080;
 }
 
-div {
-    background-color: yellowgreen
-}
-
-div {
+.square {
+    background-color:#fea500;
     color: red;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 15px;
+
 }
 
 h1 {
